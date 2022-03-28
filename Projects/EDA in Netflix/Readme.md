@@ -1,18 +1,18 @@
-EDA in Netflix Subscription
+# EDA in Netflix Subscription
 
-   Objective:
+   ### Objective:
    
        To analysis in which country netflix is more popular and have more subscription.
 
-   About the Data:
+   ### About the Data:
        
        The data contains several variables like country, no of shows,no of movies,basic, standard and premium cost per month and so on.
        
-   Acknowledgement:
+   ### Acknowledgement:
    
        This dataset is downloaded fron Kaggle.
        
-  Structure:
+  ### Structure:
   
      Task 1: Importing the libraries and reading the data set
      
@@ -23,6 +23,6 @@ EDA in Netflix Subscription
      
            I used correlation, statistical analysis, grouping, piechart, barplot using seaborn and matplotlib to visualize the data.
            
-  Conclusion:
+ ### Conclusion:
   
        Applying visualization provide more clear picture of countries having high and low subscription fee of Netflix.
