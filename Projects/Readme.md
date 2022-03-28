@@ -1,16 +1,16 @@
-#Projects
+Projects
 
  Repository contains all the projects of Python, presented in the form of Jupyter Notebooks.
 
-  ###Tools
+  Tools
 
        Python: Python3, NumPy, Pandas, Seaborn, Matplotlib
 
-  ###Skills
+  Skills
 
        Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics
        
-  ###Contents
+  Contents
   
        Data analysis and Visualization
         
