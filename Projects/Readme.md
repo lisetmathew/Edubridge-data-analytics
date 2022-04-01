@@ -1,5 +1,5 @@
 # Projects
-Repository contains all the projects of Python, presented in the form of Jupyter Notebooks.
+Repository contains all the projects of Python,R, ML, presented in the form of Jupyter Notebooks.
 
 ## Tools
 Python: Python3, NumPy, Pandas, Seaborn, Matplotlib
