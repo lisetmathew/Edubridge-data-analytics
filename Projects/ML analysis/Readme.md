@@ -16,18 +16,18 @@ This dataset is downloaded from Kaggle.
 
     • I used  statistical analysis, grouping, extracting each columns.
 
-    • Also used Pie chart, Barplot using seaborn and matplotlib to visualize the data.
+    • Also used Barplot and heatmap using seaborn and matplotlib to visualize the data.
 
-3.	Logistic Regression
+3.	ML methods
 
     •	Split the data into two, with one dependent variable and rest as independent.
 
-    •	Imported train_test_split, LogisticRegression, Confusion matrix, Classification report and accuracy_score
+    •	Imported train_test_split, LogisticRegression,KNN, Decision tree, Random Forest, SVM, Confusion matrix, Classification report and accuracy_score
 
-    •	Checked the accuracy for train and test model
+    •	Checked the accuracy for train and test model for each methods
 
     •	Plot the confusion matrix and find out the result.
 ## Conclusion:
-Applying visualization provide more clear picture of the predicted and actual data of heart attack.
+Applying visualization provide more clear picture of the predicted and actual data of heart attack and the accuracy of the model is shown using different machine learning methods.
 
 
